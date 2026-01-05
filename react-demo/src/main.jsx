@@ -8,7 +8,7 @@ createRoot(document.getElementById('root')).render(
   <StrictMode>
     <div className='body-div'>
           {/* <App /> */}
-    <h1>Stream wave demo for upload and stream</h1>
+    <h1>Stream wave demo</h1>
     <ContentList />
     </div>
   </StrictMode>,
